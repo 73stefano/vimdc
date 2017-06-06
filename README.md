@@ -1,2 +1,3 @@
-# vimdc
-m vimdc
+# Configuring ViM: 
+***
+## my .vimrc explained
