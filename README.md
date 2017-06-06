@@ -1,0 +1,2 @@
+# vimdc
+m vimdc
